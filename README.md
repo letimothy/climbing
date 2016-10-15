@@ -1,3 +1,4 @@
 # climbing
 rock climbing resources
-# #wheredoe
+
+Currently reading Training for Climbing by Eric Horst
